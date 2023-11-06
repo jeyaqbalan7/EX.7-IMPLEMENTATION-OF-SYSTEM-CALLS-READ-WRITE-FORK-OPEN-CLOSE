@@ -46,8 +46,8 @@ Stop the program.
 
 ## PROGRAM:
 ```
-Developed by : AFSAR JUMAIL S
-Reg No: 212222240004
+Developed by : Jeyabalan
+Reg No: 212222240040
 
 #include<sys/stat.h> 
 #include<stdio.h> 
