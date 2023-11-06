@@ -23,8 +23,7 @@ mode :
 Indicates permissions of new file.
 
 2. open:
-3. 
-Used to Open the file for reading, writing or both.
+3. Used to Open the file for reading, writing or both.
 
 Syntax:
 
@@ -41,8 +40,7 @@ How you like to use ?
 O_RDONLY: read only, O_WRONLY: write only, O_RDWR: read and write, O_CREAT: create file if it doesn’t exist, O_EXCL: prevent creation if it already exists
 
 3. close:
-4. 
-Tells the operating system you are done with a file descriptor and Close the file which pointed by fd.
+4. Tells the operating system you are done with a file descriptor and Close the file which pointed by fd.
 
 Syntax:
 
